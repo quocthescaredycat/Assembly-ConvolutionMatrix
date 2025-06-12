@@ -32,7 +32,7 @@ Given an **N×N** “image” matrix and an **M×M** “kernel” matrix, plus s
 ## 🛠️ Building & Running
 
 ### 1. Assembly
-1. Open **`convolution.asm`** in MARS.  
+1. Open **`main.asm`** in MARS.  
 2. Assemble & run, making sure `input_matrix.txt` is in MARS’s working directory.  
 3. The program creates `output_matrix.txt` as output.
 
